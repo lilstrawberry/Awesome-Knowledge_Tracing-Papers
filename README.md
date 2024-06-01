@@ -1,1 +1,1 @@
-# Knowledge-Tracing-Model
+# Knowledge Tracing Model
