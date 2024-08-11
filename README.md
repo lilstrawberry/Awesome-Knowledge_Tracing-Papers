@@ -2,6 +2,7 @@
 
 | Title                                                                                                      | Author                | Year | Code                                     | Publication                                   |
 |------------------------------------------------------------------------------------------------------------|-----------------------|------|------------------------------------------|----------------------------------------------|
+| [Revisiting Knowledge Tracing: A Simple and Powerful Model] | Jianwen Sun et al | 2024 | [ReKT](https://github.com/lilstrawberry/ReKT) | ACM MM |
 | [Interpretable Knowledge Tracing with Multiscale State Representation](https://dl.acm.org/doi/pdf/10.1145/3589334.3645373) | Jianwen Sun et al | 2024 | [MIKT](https://github.com/lilstrawberry/MIKT) | WWW |
 | [HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645718) | Haiping Ma et al | 2024 | HD-KT | WWW |
 | [Question Difficulty Consistent Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3589334.3645582) | Guimei Liu et al | 2024 | QDCKT | WWW |
