@@ -7,7 +7,7 @@
 | [HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645718) | Haiping Ma et al | 2024 | HD-KT | WWW |
 | [Question Difficulty Consistent Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3589334.3645582) | Guimei Liu et al | 2024 | QDCKT | WWW |
 | [Predictive, scalable and interpretable knowledge tracing on structured domains](https://openreview.net/pdf?id=NgaLU2fP5D) | Hanqi Zhou et al | 2024 | [PSI-KT](https://github.com/mlcolab/psi-kt?tab=readme-ov-file) | ICLR |
-| RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes | Waiting... | 2024 | RIGL | KDD |
+| RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes | Waiting... | 2024 | [RIGL](https://github.com/LabyrinthineLeo/RIGL) | KDD |
 | Leveraging Pedagogical Theories to Understand Student Learning Process with Graph-based Reasonable Knowledge Tracing | Waiting... | 2024 | GRKT | KDD |
 | [Progressive knowledge tracing: Modeling learning process from abstract to concrete](https://www.sciencedirect.com/science/article/abs/pii/S0957417423027823?via%3Dihub) | Jianwen Sun et al | 2024 | [PKT](https://github.com/WeiMengqi934/PKT) | Expert Systems with Applications |
 | [Adversarial Bootstrapped Question Representation Learning for Knowledge Tracing](https://dl.acm.org/doi/abs/10.1145/3581783.3612044) | Jianwen Sun et al | 2023 | [ABQR](https://github.com/lilstrawberry/ABQR) | ACM MM |
