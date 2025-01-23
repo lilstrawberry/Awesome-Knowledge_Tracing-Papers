@@ -4,8 +4,8 @@
 |------------------------------------------------------------------------------------------------------------|-----------------------|------|------------------------------------------|----------------------------------------------|
 | [Revisiting Knowledge Tracing: A Simple and Powerful Model](https://dl.acm.org/doi/10.1145/3664647.3681205) | Jianwen Sun et al | 2024 | [ReKT](https://github.com/lilstrawberry/ReKT) | ACM MM |
 | [Interpretable Knowledge Tracing with Multiscale State Representation](https://dl.acm.org/doi/pdf/10.1145/3589334.3645373) | Jianwen Sun et al | 2024 | [MIKT](https://github.com/lilstrawberry/MIKT) | WWW |
-| [HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645718) | Haiping Ma et al | 2024 | HD-KT | WWW |
-| [Question Difficulty Consistent Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3589334.3645582) | Guimei Liu et al | 2024 | QDCKT | WWW |
+| [HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645718) | Haiping Ma et al | 2024 | [HD-KT](https://github.com/BIMK/Intelligent-Education/tree/main/HD-KT) | WWW |
+| [Question Difficulty Consistent Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3589334.3645582) | Guimei Liu et al | 2024 | QDCKT(no code) | WWW |
 | [Predictive, scalable and interpretable knowledge tracing on structured domains](https://openreview.net/pdf?id=NgaLU2fP5D) | Hanqi Zhou et al | 2024 | [PSI-KT](https://github.com/mlcolab/psi-kt?tab=readme-ov-file) | ICLR |
 | [RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes](https://dl.acm.org/doi/10.1145/3637528.3671711) | Xiaoshan Yu et al | 2024 | [RIGL](https://github.com/LabyrinthineLeo/RIGL) | KDD |
 | [Leveraging Pedagogical Theories to Understand Student Learning Process with Graph-based Reasonable Knowledge Tracing](https://dl.acm.org/doi/10.1145/3637528.3671853) | Jiajun Cui et al | 2024 | [GRKT](https://github.com/JJCui96/GRKT) | KDD |
