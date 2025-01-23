@@ -2,6 +2,8 @@
 
 | Title                                                                                                      | Author                | Year | Code                                     | Publication                                   |
 |------------------------------------------------------------------------------------------------------------|-----------------------|------|------------------------------------------|----------------------------------------------|
+| [Mitigating Cold-Start Problems in Knowledge Tracing with Large Language Models: An Attribute-aware Approach](https://dl.acm.org/doi/10.1145/3627673.3679664) | Yuxiang Guo et al | 2024 | [EAKT](https://github.com/Guoyxustc/EAKT) | CIKM |
+| [SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model](https://dl.acm.org/doi/10.1145/3627673.3679760) | Lingyue Fu et al | 2024 | [SINKT](https://github.com/mindspore-lab/models/tree/master/research/huawei-noah/SINKT) | CIKM |
 | [Revisiting Knowledge Tracing: A Simple and Powerful Model](https://dl.acm.org/doi/10.1145/3664647.3681205) | Jianwen Sun et al | 2024 | [ReKT](https://github.com/lilstrawberry/ReKT) | ACM MM |
 | [Interpretable Knowledge Tracing with Multiscale State Representation](https://dl.acm.org/doi/pdf/10.1145/3589334.3645373) | Jianwen Sun et al | 2024 | [MIKT](https://github.com/lilstrawberry/MIKT) | WWW |
 | [HD-KT: Advancing Robust Knowledge Tracing via Anomalous Learning Interaction Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645718) | Haiping Ma et al | 2024 | [HD-KT](https://github.com/BIMK/Intelligent-Education/tree/main/HD-KT) | WWW |
