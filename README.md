@@ -2,6 +2,7 @@
 
 | Title                                                                                                      | Author                | Year | Code                                     | Publication                                   |
 |------------------------------------------------------------------------------------------------------------|-----------------------|------|------------------------------------------|----------------------------------------------|
+| [Enhancing Length Generalization for Attention Based Knowledge Tracing Models with Linear Biases](https://www.ijcai.org/proceedings/2024/654) | Xueyi Li et al | 2024 | [stableKT](https://github.com/pykt-team/pykt-toolkit/blob/main/pykt/models/stablekt.py) | IJCAI |
 | [Mitigating Cold-Start Problems in Knowledge Tracing with Large Language Models: An Attribute-aware Approach](https://dl.acm.org/doi/10.1145/3627673.3679664) | Yuxiang Guo et al | 2024 | [EAKT](https://github.com/Guoyxustc/EAKT) | CIKM |
 | [SINKT: A Structure-Aware Inductive Knowledge Tracing Model with Large Language Model](https://dl.acm.org/doi/10.1145/3627673.3679760) | Lingyue Fu et al | 2024 | [SINKT](https://github.com/mindspore-lab/models/tree/master/research/huawei-noah/SINKT) | CIKM |
 | [Revisiting Knowledge Tracing: A Simple and Powerful Model](https://dl.acm.org/doi/10.1145/3664647.3681205) | Jianwen Sun et al | 2024 | [ReKT](https://github.com/lilstrawberry/ReKT) | ACM MM |
